@@ -1,12 +1,16 @@
 {
-  "Version": 3,
-  "FileReferences": {
-    "Moc": "DLK-SJ4.moc3",
-    "Textures": [
-      "DLK-SJ4.1024/texture_00.png"
-    ],
-    "Physics": "DLK-SJ4.physics3.json",
-    "Motions": {
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "DLK-SJ4.moc3",
+  "textures": [
+    "DLK-SJ4.1024/texture_00.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": -0.25,
+    "width": 2.6
+  },
+    "physics": "DLK-SJ4.physics3.json",
+    "motions": {
       "Tap犯困": [
         {
           "File": "motions/DLK_fk.motion3.json"
