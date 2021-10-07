@@ -1,0 +1,36 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "DLK-SJ4.moc3",
+    "Textures": [
+      "DLK-SJ4.1024/texture_00.png"
+    ],
+    "Physics": "DLK-SJ4.physics3.json",
+    "Motions": {
+      "Tap犯困": [
+        {
+          "File": "motions/DLK_fk.motion3.json"
+        }
+      ],
+      "Tap看手手": [
+        {
+          "File": "motions/DLK_kss.motion3.json"
+        },
+        {
+          "File": "motions/DLK_pl.motion3.json"
+        }
+      ],
+      "Tap不屑": [
+        {
+          "File": "motions/DLK_sq.motion3.json"
+        }
+      ],
+      "Shake": [
+        {
+          "File": "motions/DLK_sq.motion3.json"
+        }
+      ]
+    }
+  },
+  "Options": {}
+}
